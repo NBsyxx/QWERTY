@@ -1,0 +1,22 @@
+#p1{
+	
+	font-size: 50px;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	left: 3%;
+
+}
+#p2{
+	
+	font-size: 50px;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	right: 3%;
+
+}
+
+a {
+	text-decoration: none;
+}

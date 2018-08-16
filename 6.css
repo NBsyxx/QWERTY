@@ -1,0 +1,23 @@
+body {
+	background-color: rgb(88,6,140);
+}
+#p1{
+	/*font-family: 'Righteous', cursive;*/
+	color: white;
+	text-align: center;
+	text-align: center;
+	font-size: 70px;
+	margin-bottom: 0.5%;
+	margin-top: 0.5%;
+
+}
+#video1{
+	width: 80%;
+	height: 80%;
+	position: absolute;
+	top: 17%;
+	left: 10%;
+}
+a {
+	text-decoration: none;
+}

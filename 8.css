@@ -1,0 +1,56 @@
+body {
+	background-color: rgb(88,6,140);
+}
+#p1{
+	/*font-family: 'Righteous', cursive;*/
+	color: white;
+	font-size: 100px;
+	text-align: center;
+	position: relative;
+	margin-bottom: 0;
+	margin-top: 2%;
+
+	
+}
+#p2{
+	/*font-family: 'Righteous', cursive;*/
+	color: white;
+	text-align: center;
+	position: relative;
+	font-size: 80px;
+	margin-bottom: 0;
+	margin-top: 2%;
+
+}
+#p3{
+	/*font-family: 'Righteous', cursive;*/
+	color: white;
+	text-align: center;
+	position: relative;
+	font-size: 100px;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	
+
+}
+#p4{
+	color: white;
+	text-align: center;
+	position: relative;
+	font-size: 80px;
+	margin-top: 0;
+
+}
+
+
+
+
+a {
+	text-decoration: none;
+}
+
+
+
+
+
